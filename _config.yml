@@ -1,11 +1,11 @@
 # Site settings
-author: Biagio   Mendolia
-title: 
+author: Biagio Mendolia
+title: Software Engineering
 header-img: img/home-bg.png
 email: mendolia2328@gmail.com
-copyright_name: Biagio   Mendolia
+copyright_name: Biagio Mendolia
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey learning web development at Flatiron
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  biagioo
